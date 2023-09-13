@@ -1,2 +1,5 @@
+Jika menggunakan firmware GRBL
 https://github.com/Denvi/Candle
 https://github.com/gnea/grbl
+
+Jika menggunakan Benbox
